@@ -1,0 +1,10 @@
+x=input('number')
+y=input('number')
+a=int(x)
+b=int(y)
+if a+b==10 and a!=b:
+    print(a/b)
+if a*b==20 or a+b==20 :
+    print(a*b)
+else :
+    print(a+b)
